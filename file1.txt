@@ -1,2 +1,0 @@
-Hello
-Added this new line to file1.txt
